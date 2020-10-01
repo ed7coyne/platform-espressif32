@@ -41,7 +41,7 @@ env.Append(
     CXXFLAGS=[
         "-fno-rtti",
         "-fno-exceptions",
-        "-std=gnu++17"
+        "-std=gnu++19"
     ],
 
     CPPDEFINES=[
